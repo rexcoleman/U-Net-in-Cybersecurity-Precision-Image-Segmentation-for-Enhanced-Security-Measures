@@ -80,10 +80,12 @@ Further research and development can expand the use of U-Net in cybersecurity. B
 
 In conclusion, U-Net's versatility and precision make it an invaluable asset in both image segmentation and cybersecurity. The ability to accurately segment and analyze data at a granular level provides significant advantages in identifying and mitigating security threats, ensuring a safer and more secure digital environment.
 
-- Releated Malware Families
+Releated Malware Families
+ 
 ![related_malware_famalies](img/related_malware_families.webp)
 
-- Unreleated Malware Families
+Unreleated Malware Families
+
 ![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
 
 ## Citations

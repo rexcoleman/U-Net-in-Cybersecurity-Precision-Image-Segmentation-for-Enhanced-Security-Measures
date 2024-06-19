@@ -84,7 +84,6 @@ In post-incident investigations, U-Net can assist in reconstructing and visualiz
 
 
 
-
 ![network_traffic_visualization](img/Visualization-of-20-types-of-network-traffic-and-consistency-in-the-same-type.png)
 
 ![image_segmentation_u_net](img/image_segmentation_u_net.png)

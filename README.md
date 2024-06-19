@@ -47,7 +47,7 @@ U-Net comprises an encoder-decoder architecture with skip connections, enabling 
 
 ![u_net_architecture](img/u-net-architecture.png)
 
-*Figure 1: Detecting Phishing Websites with Neural Style Transfer - This image shows an exagerated visual representation of a legitimate website credit card form being altered by a hactivist meme and the resulting suspicious phishing website. The cybersecurity goal in this context is to identify phishing websites pretending to be legitimate websites but with subtly different style.*
+*Figure 1: U-Net Architecture.*
 
 ### 2.2 Comparison with Regular CNNs
 

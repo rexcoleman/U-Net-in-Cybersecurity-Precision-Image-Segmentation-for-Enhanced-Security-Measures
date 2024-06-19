@@ -95,7 +95,7 @@ In post-incident investigations, U-Net can assist in reconstructing and visualiz
 
 ![network_traffic_visualization](img/Visualization-of-20-types-of-network-traffic-and-consistency-in-the-same-type.png)
 
-![image_segmentation_u_net](img/image_segmentation_u_net.png)
+
 
 
 
@@ -113,6 +113,9 @@ This project aimed to demonstrate U-Net's effectiveness in semantic image segmen
 ### 4.3 Results
 
 The project successfully showcased U-Net's ability to perform accurate image segmentation, highlighting its potential for enhancing security measures in diverse applications.
+
+![image_segmentation_u_net](img/image_segmentation_u_net.png)
+*Figure 4: U-Net applied semantic segmenation to CARLA self-driving car dataset.*
 
 ## 5. Conclusion
 

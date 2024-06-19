@@ -56,6 +56,8 @@ The objective of this project was to build a U-Net model for semantic image segm
 
 4. **Applying Sparse Categorical Cross-Entropy for Pixelwise Prediction**: Utilized sparse categorical cross-entropy as the loss function to optimize pixelwise predictions, ensuring accurate segmentation results.
 
+![image_segmentation_u_net](img/image_segmentation_u_net.png)
+
 ### Results
 
 The project successfully demonstrated the application of U-Net for semantic image segmentation. The model was able to accurately label each pixel in the images, showcasing the importance of precise segmentation for self-driving cars. The results highlighted the ability of U-Net to handle complex segmentation tasks and produce high-resolution outputs.

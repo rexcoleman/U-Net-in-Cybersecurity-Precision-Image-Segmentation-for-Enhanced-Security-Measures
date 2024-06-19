@@ -18,7 +18,7 @@ U-Net consists of two main parts: the encoder (or contracting path) and the deco
 
 The decoder, on the other hand, is responsible for precise localization. It uses transposed convolutions (also known as up-convolutions) to increase the spatial dimensions and reduce the depth. Skip connections between corresponding layers of the encoder and decoder paths allow the network to combine the high-level features from the encoder with the upsampled features, ensuring that the spatial information is preserved.
 
-![u_net_architecture](img/u-net-architecture)
+![u_net_architecture](img/u-net-architecture.png)
 
 ### Comparison with Regular CNNs
 

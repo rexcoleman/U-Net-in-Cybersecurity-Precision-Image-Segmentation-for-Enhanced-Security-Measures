@@ -2,7 +2,7 @@
 
 # Executive Summary
 
-This portfolio showcases the application of U-Net, a powerful convolutional neural network architecture, in cybersecurity through precision image segmentation. U-Net's ability to accurately segment images has significant implications for enhancing security measures such as intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This document explores the architecture of U-Net, its applications in cybersecurity, a project demonstration in image segmentation, and future directions for leveraging U-Net in cybersecurity.
+This report showcases the application of U-Net, a powerful convolutional neural network architecture, in cybersecurity through precision image segmentation. U-Net's ability to accurately segment images has significant implications for enhancing security measures such as intrusion detection, anomaly detection in network traffic, facial recognition for access control, and digital forensics. This document explores the architecture of U-Net, its applications in cybersecurity, a project demonstration in image segmentation, and future directions for leveraging U-Net in cybersecurity.
 
 Releated Malware Families                             | Unreleated Malware Families
 :---------------------------------------------------: | :---------------------------------------------------:

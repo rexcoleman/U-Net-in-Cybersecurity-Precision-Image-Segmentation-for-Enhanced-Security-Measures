@@ -1,4 +1,4 @@
-# U-Net-in-Cybersecurity-Precision-Image-Segmentation-for-Enhanced-Security-Measures
+# U-Net in Cybersecurity: Precision Image Segmentation for Enhanced Security Measures
 
 ## Introduction
 

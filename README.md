@@ -36,10 +36,6 @@ Intrusion detection systems (IDS) play a crucial role in identifying unauthorize
 
 Anomaly detection involves identifying patterns in data that do not conform to expected behavior. In cybersecurity, this is particularly important for detecting unusual activities that may signify security breaches. U-Net can be utilized to segment network traffic data, pinpointing areas where anomalies occur. By treating network traffic as sequences or images, U-Net can effectively distinguish between normal and abnormal patterns.
 
-![related_malware_famalies](img/related_malware_families.webp)
-
-![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
-
 ### Facial Recognition for Access Control
 
 Facial recognition is a common method used in access control systems to verify individuals' identities. U-Net's precise segmentation capabilities can enhance the accuracy of facial recognition systems by ensuring that the facial features are accurately segmented and analyzed. This improves the reliability of access control systems in safeguarding sensitive areas.
@@ -83,6 +79,12 @@ U-Net is a powerful tool for image segmentation, offering precise and high-resol
 Further research and development can expand the use of U-Net in cybersecurity. By exploring new ways to convert cybersecurity data into image-like formats, data scientists can leverage U-Net's strengths to enhance threat detection and prevention. Continuous innovation and adaptation of U-Net for cybersecurity applications will contribute to more robust and effective security measures.
 
 In conclusion, U-Net's versatility and precision make it an invaluable asset in both image segmentation and cybersecurity. The ability to accurately segment and analyze data at a granular level provides significant advantages in identifying and mitigating security threats, ensuring a safer and more secure digital environment.
+
+- Releated Malware Families
+![related_malware_famalies](img/related_malware_families.webp)
+
+- Unreleated Malware Families
+![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
 
 ## Citations
 

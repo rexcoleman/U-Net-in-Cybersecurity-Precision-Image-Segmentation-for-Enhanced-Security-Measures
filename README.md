@@ -7,6 +7,8 @@ This portfolio showcases the application of U-Net, a powerful convolutional neur
 Releated Malware Families                             | Unreleated Malware Families
 :---------------------------------------------------: | :---------------------------------------------------:
 ![related_malware_famalies](img/related_malware_families.webp) | ![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
+
+
 *Figure 2: U-net's ability to segment features in images could be applied to a wide array of cybersecurity use cases. As an exsample, this figure shows images of related malware families (left) and unrelated malware families (right).*
 
 ## Table of Contents

@@ -89,3 +89,9 @@ U-Net is a powerful tool for image segmentation, offering precise and high-resol
 Further research and development can expand the use of U-Net in cybersecurity. By exploring new ways to convert cybersecurity data into image-like formats, data scientists can leverage U-Net's strengths to enhance threat detection and prevention. Continuous innovation and adaptation of U-Net for cybersecurity applications will contribute to more robust and effective security measures.
 
 In conclusion, U-Net's versatility and precision make it an invaluable asset in both image segmentation and cybersecurity. The ability to accurately segment and analyze data at a granular level provides significant advantages in identifying and mitigating security threats, ensuring a safer and more secure digital environment.
+
+## Citations
+
+https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00170-z
+
+https://www.researchgate.net/publication/354164057_A_Novel_Way_to_Generate_Adversarial_Network_Traffic_Samples_against_Network_Traffic_Classification/citation/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHVibGljYXRpb24ifX0

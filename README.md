@@ -69,7 +69,9 @@ Beyond segmentation, U-Net can extract meaningful features from segmented images
 
 Implementing U-Net for network traffic analysis allows for real-time monitoring. As new packets arrive, they can be immediately segmented and analyzed, providing rapid detection and response to potential threats.
 
-### 3.5 Integration with Existing Security Systems: U-Net can complement existing intrusion detection systems (IDS) by adding a visual and detailed layer of analysis. It can enhance the precision of threat detection and reduce false positives by focusing on the visual patterns of traffic anomalies.
+### 3.5 Integration with Existing Security Systems: 
+
+U-Net can complement existing intrusion detection systems (IDS) by adding a visual and detailed layer of analysis. It can enhance the precision of threat detection and reduce false positives by focusing on the visual patterns of traffic anomalies.
 
 ### 3.6 Facial Recognition for Access Control
 

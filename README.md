@@ -88,6 +88,12 @@ Unreleated Malware Families
 
 ![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
 
+
+Releated Malware Families                             | Unreleated Malware Families
+:---------------------------------------------------: | :---------------------------------------------------:
+![related_malware_famalies](img/related_malware_families.webp) | ![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
+
+
 ## Citations
 
 https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00170-z

@@ -30,11 +30,13 @@ Traditional CNNs are typically designed for image classification tasks where the
 
 Intrusion detection systems (IDS) play a crucial role in identifying unauthorized access to networks and systems. By converting network traffic data into image-like representations, U-Net can be employed to detect anomalies and intrusions. The segmentation capabilities of U-Net allow it to identify and highlight abnormal patterns within the network traffic, which may indicate malicious activities.
 
-![related_malware_famalies](img/related_malware_families.webp)
+![network_traffic_visualization](img/Visualization-of-20-types-of-network-traffic-and-consistency-in-the-same-type.png)
 
 ### Anomaly Detection in Network Traffic
 
 Anomaly detection involves identifying patterns in data that do not conform to expected behavior. In cybersecurity, this is particularly important for detecting unusual activities that may signify security breaches. U-Net can be utilized to segment network traffic data, pinpointing areas where anomalies occur. By treating network traffic as sequences or images, U-Net can effectively distinguish between normal and abnormal patterns.
+
+![related_malware_famalies](img/related_malware_families.webp)
 
 ![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
 
@@ -46,7 +48,7 @@ Facial recognition is a common method used in access control systems to verify i
 
 In digital forensics, the authenticity of images and videos is often scrutinized to identify tampering or alterations. U-Net can assist in verifying the authenticity of digital media by analyzing style consistency with known sources. By comparing the style and content of suspect images with genuine reference images, U-Net can help identify forgeries. Additionally, U-Net can aid in visual pattern recognition tasks, such as identifying recurring elements across crime scene photos or surveillance footage.
 
-![network_traffic_visualization](img/Visualization-of-20-types-of-network-traffic-and-consistency-in-the-same-type.png)
+
 
 ## Project Accomplishment: Image Segmentation with U-Net
 

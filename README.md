@@ -36,7 +36,7 @@ Intrusion detection systems (IDS) play a crucial role in identifying unauthorize
 
 Anomaly detection involves identifying patterns in data that do not conform to expected behavior. In cybersecurity, this is particularly important for detecting unusual activities that may signify security breaches. U-Net can be utilized to segment network traffic data, pinpointing areas where anomalies occur. By treating network traffic as sequences or images, U-Net can effectively distinguish between normal and abnormal patterns.
 
-![unrelated_malware_famalies](img/unrelated_malware_families.webp)
+![unrelated_malware_famalies](img/unrelated_malware_famalies.webp)
 
 ### Facial Recognition for Access Control
 

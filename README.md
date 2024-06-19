@@ -47,6 +47,8 @@ U-Net comprises an encoder-decoder architecture with skip connections, enabling 
 
 ![u_net_architecture](img/u-net-architecture.png)
 
+*Figure 1: Detecting Phishing Websites with Neural Style Transfer - This image shows an exagerated visual representation of a legitimate website credit card form being altered by a hactivist meme and the resulting suspicious phishing website. The cybersecurity goal in this context is to identify phishing websites pretending to be legitimate websites but with subtly different style.*
+
 ### 2.2 Comparison with Regular CNNs
 
 Unlike traditional CNNs that focus on image classification, U-Net predicts labels for each pixel, making it suitable for tasks requiring detailed localization and segmentation.
@@ -120,23 +122,14 @@ Further research can expand U-Net's applications in cybersecurity, exploring new
 ## 6. References
 
 - **Academic Papers and Articles**:
-  - [Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
-  - [Harish Narayanan, Convolutional neural networks for artistic style transfer.](https://harishnarayanan.org/writing/artistic-style-transfer/)
-  - [Log0, TensorFlow Implementation of "A Neural Algorithm of Artistic Style".](https://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style)
-  - [Karen Simonyan and Andrew Zisserman (2015). Very deep convolutional networks for large-scale image recognition
-MatConvNet.
-](https://arxiv.org/pdf/1409.1556)
+  - [Novikov et al., 2017, Fully Convolutional Architectures for Multi-Class Segmentation in Chest Radiographs](https://arxiv.org/abs/1701.08816)
+  - [Dong et al., 2017, Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks](https://arxiv.org/abs/1705.03820)
+  - [Hu et al., 2021, A Novel Way to Generate Adversarial Network Traffic Samples against Network Traffic Classification](https://www.researchgate.net/publication/354164057_A_Novel_Way_to_Generate_Adversarial_Network_Traffic_Samples_against_Network_Traffic_Classification)
+  - [Malware Detection With Convolutional Neural Networks in Python](https://dzone.com/articles/malware-detection-with-convolutional-neural-networ)
+  - [Dint et al., 2023, DCU-Net: a dual-channel U-shaped network for image splicing forgery detection](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8359769/)
+  - [Demmese et al., 2023, Machine learning based fileless malware traffic classification using image visualization](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00170-z)
+  - [Mezina et al., 2024, Reinterpreting Usability of Semantic Segmentation Approach for Darknet Traffic Analysis](https://www.sciencedirect.com/science/article/pii/S1389128624003256)
 - **Courses**:
   - [Ng, A., Katanforoosh, K., & Mourri, Y. (n.d.). Convolutional Neural Networks. DeepLearning.AI, Coursera.](https://www.coursera.org/learn/convolutional-neural-networks)
 
-
-- [Cybersecurity Article](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00170-z)
-- [Research Paper](https://www.researchgate.net/publication/354164057_A_Novel_Way_to_Generate_Adversarial_Network_Traffic_Samples_against_Network_Traffic_Classification/citation/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHVibGljYXRpb24ifX0)
-
-
-
-
-https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00170-z
-
-https://www.researchgate.net/publication/354164057_A_Novel_Way_to_Generate_Adversarial_Network_Traffic_Samples_against_Network_Traffic_Classification/citation/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHVibGljYXRpb24ifX0
 
